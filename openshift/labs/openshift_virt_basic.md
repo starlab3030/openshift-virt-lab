@@ -470,5 +470,9 @@ Overview 대시보드는 오픈시프트 가상화 및 가상머신의 상태에
 <br>
 <br>
 
+HOWTO GET virtctl
+```bash
+wget --no-check-certificate https://hyperconverged-cluster-cli-download-openshift-cnv.apps.ocp.example.com/amd64/linux/virtctl.tar.gz
+```
 ------
 [차례](../README.md) &nbsp;&nbsp;&nbsp;&nbsp; [<< 랩 환경 <<](./lab_review.md) &nbsp;&nbsp;&nbsp;&nbsp; [>> 오픈시프트 가상화 커스터마이징 >>](./openshift_virt_customization.md)
