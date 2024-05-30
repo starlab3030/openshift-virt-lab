@@ -8,9 +8,9 @@
 
 다음 QR 코드를 사용하여 설문조사 참여 부탁 드립니다.
 
-<p align="center">
+<--p align="center">
 <img src="lab-images/google_form--openshift_vrit_lab--close--1lQJZ.png" title="100px" alt="오픈시프트 가상화 랩 설문조사 - 마무리"></img> <br> 
-</p>
+</p-->
 <br>
 <br>
 
