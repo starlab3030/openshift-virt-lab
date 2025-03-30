@@ -4,13 +4,13 @@
 
 또한 Migration Toolkit for Virtualization을 사용하여 몇 개의 가상머신을 VMware vSphere에서 레드햇 오픈시프트로 쉽게 이동했습니다.
 
-<br>
+<!--br>
 
 다음 QR 코드를 사용하여 설문조사 참여 부탁 드립니다.
 
 <p align="center">
 <img src="lab-images/google_form--openshift_vrit_lab--close--1lQJZ.png" title="100px" alt="오픈시프트 가상화 랩 설문조사 - 마무리"></img> <br> 
-</p>
+</p-->
 <br>
 <br>
 
