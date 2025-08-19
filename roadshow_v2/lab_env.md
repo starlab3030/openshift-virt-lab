@@ -37,7 +37,7 @@
 ### 2.2 제품 구성
 
 |컴포넌트|URL|
-|:---:|:---:|
+|:---:|:---|
 |오픈시프트 콘솔|https://console-openshift-console.apps.cluster-4np4l.dynamic.redhatworkshops.io/|
 |오픈시프트 API|https://api.cluster-4np4l.dynamic.redhatworkshops.io:6443/|
 |AAP 콘솔|https://aap-aap.apps.cluster-4np4l.dynamic.redhatworkshops.io/|

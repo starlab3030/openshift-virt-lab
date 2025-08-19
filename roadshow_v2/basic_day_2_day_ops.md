@@ -17,10 +17,10 @@
 3. [네트워크 정책 구성](basic_day_2_day_ops.md#3-네트워크-정책-구성)<br>
    3.1 [목표](basic_day_2_day_ops.md#31-목표)<br>
    3.2 [가상머신의 Egress 네트워크 확인](basic_day_2_day_ops.md#32-가상머신의-egress-네트워크-확인)<br>
-   3.3 [가상머신에 레이블 추가](basic_day_2_day_ops.md#33-가상머신에-레이블-추가)<br>  
-   3.4 [네트워크 정책 생성](basic_day_2_day_ops.md#34-네트워크-정책-생성)<br>  
-   3.5 [가상머신 상에 네트워크 정책 효과 확인](basic_day_2_day_ops.md#35-가상머신-상에-네트워크-정책-효과-확인)<br>  
-   3.6 [네트워크 정책 지우기](basic_day_2_day_ops.md#36-네트워크-정책-지우기)<br>  
+   3.3 [가상머신에 레이블 추가](basic_day_2_day_ops.md#33-가상머신에-레이블-추가)<br>
+   3.4 [네트워크 정책 생성](basic_day_2_day_ops.md#34-네트워크-정책-생성)<br>
+   3.5 [가상머신 상에 네트워크 정책 효과 확인](basic_day_2_day_ops.md#35-가상머신-상에-네트워크-정책-효과-확인)<br>
+   3.6 [네트워크 정책 지우기](basic_day_2_day_ops.md#36-네트워크-정책-지우기)<br>
 
 4. [모니터링과 알럿](basic_day_2_day_ops.md#4-모니터링과-알럿)<br>
    4.1 [노드 알럿과 그래프](basic_day_2_day_ops.md#41-노드-알럿과-그래프)<br>
